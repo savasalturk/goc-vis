@@ -2,10 +2,10 @@
 
 
 ### Aldığı Göç:
-- ![gif](vis\vis-AldigiGoc.gif)
+- ![gif](vis/vis-AldigiGoc.gif)
 
 ### Verdiği Göç:
-- ![gif](vis\vis-VerdigiGoc.gif)
+- ![gif](vis/vis-VerdigiGoc.gif)
 
 ### Net Göç:
-- ![gif](vis\vis-NetGoc.gif)
+- ![gif](vis/vis-NetGoc.gif)
